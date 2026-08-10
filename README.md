@@ -7,7 +7,7 @@ AI agent skills for SAP ABAP development, published for the
 
 | Slug | Description |
 |---|---|
-| [`evaluating-abap-unit-tests`](skills/evaluating-abap-unit-tests/SKILL.md) | Write, review, and remediate ABAP Unit (AUnit) test suites — isolation frameworks, false-green detection, coverage strategy, testability seams. |
+| [`evaluating-abap-unit-tests`](skills/evaluating-abap-unit-tests/SKILL.md) | Evaluate, write, and remediate ABAP Unit (AUnit) test suites — isolation frameworks, false-green detection, coverage strategy, testability seams. |
 
 ## Installation
 
