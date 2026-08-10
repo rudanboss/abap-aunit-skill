@@ -1,0 +1,23 @@
+Evaluating ABAP Unit Tests
+Copyright 2026 Rudramani Pandey
+
+This product includes software developed by Rudramani Pandey.
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Third-party material
+--------------------
+This skill contains no third-party code and redistributes no third-party files.
+
+Its guidance describes the observable behaviour of SAP-provided ABAP test
+isolation frameworks (cl_osql_test_environment, cl_cds_test_environment,
+cl_aunit_authority_check, cl_function_test_environment, cl_amdp_test_environment,
+and the cl_botd_* RAP business object test environments) and follows conventions
+set out in the Clean ABAP style guide published by SAP SE. All such material is
+described in the authors' own words; no documentation text is reproduced.
+
+Trademarks
+----------
+SAP, ABAP, S/4HANA, and Joule are trademarks or registered trademarks of SAP SE
+or an SAP affiliate company. These names are used nominatively to describe
+interoperability only. This work is independent and is not affiliated with,
+sponsored by, or endorsed by SAP SE.

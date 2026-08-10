@@ -1,0 +1,10 @@
+version = 1
+SPDX-PackageName = "evaluating-abap-unit-tests"
+SPDX-PackageSupplier = "Rudramani Pandey <rudanboss@gmail.com>"
+SPDX-PackageDownloadLocation = "https://github.com/rudanboss/abap-aunit-skill"
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 Rudramani Pandey"
+SPDX-License-Identifier = "Apache-2.0"
